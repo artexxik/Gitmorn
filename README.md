@@ -41,4 +41,3 @@ git pull
 ```
 git push
 ```
-f
