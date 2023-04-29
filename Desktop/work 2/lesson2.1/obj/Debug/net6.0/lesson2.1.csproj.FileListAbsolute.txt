@@ -1,0 +1,15 @@
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.csproj.AssemblyReference.cache
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.AssemblyInfoInputs.cache
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.AssemblyInfo.cs
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.csproj.CoreCompileInputs.cache
+/Users/artexx/Desktop/work 2/lesson2.1/bin/Debug/net6.0/lesson2.1
+/Users/artexx/Desktop/work 2/lesson2.1/bin/Debug/net6.0/lesson2.1.deps.json
+/Users/artexx/Desktop/work 2/lesson2.1/bin/Debug/net6.0/lesson2.1.runtimeconfig.json
+/Users/artexx/Desktop/work 2/lesson2.1/bin/Debug/net6.0/lesson2.1.dll
+/Users/artexx/Desktop/work 2/lesson2.1/bin/Debug/net6.0/lesson2.1.pdb
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.dll
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/refint/lesson2.1.dll
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.pdb
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/lesson2.1.genruntimeconfig.cache
+/Users/artexx/Desktop/work 2/lesson2.1/obj/Debug/net6.0/ref/lesson2.1.dll
