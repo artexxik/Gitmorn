@@ -1,0 +1,15 @@
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.csproj.AssemblyReference.cache
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.AssemblyInfoInputs.cache
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.AssemblyInfo.cs
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.csproj.CoreCompileInputs.cache
+/Users/artexx/Desktop/урок2/bin/Debug/net6.0/урок2
+/Users/artexx/Desktop/урок2/bin/Debug/net6.0/урок2.deps.json
+/Users/artexx/Desktop/урок2/bin/Debug/net6.0/урок2.runtimeconfig.json
+/Users/artexx/Desktop/урок2/bin/Debug/net6.0/урок2.dll
+/Users/artexx/Desktop/урок2/bin/Debug/net6.0/урок2.pdb
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.dll
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/refint/урок2.dll
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.pdb
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/урок2.genruntimeconfig.cache
+/Users/artexx/Desktop/урок2/obj/Debug/net6.0/ref/урок2.dll
