@@ -115,22 +115,22 @@ else {
   Console.WriteLine("-> третьей цифры нет");
 }
 */
+
 /*
 //15
-Console.WriteLine("Задача 15 ");
+int Prompt(string msg)
+{
 
-Console.Write("Введи цифру, обозначающую день недели: ");
-int dayNumber = Convert.ToInt32(Console.ReadLine());
-
-void CheckingTheDayOfTheWeek (int dayNumber) {
-  if (dayNumber == 6 || dayNumber == 7) {
-  Console.WriteLine("(этот день выходной) -> да");
-  }
-  else if (dayNumber < 1 || dayNumber > 7) {
-    Console.WriteLine("это вообще не день недели");
-  }
-  else Console.WriteLine("(этот день не выходной) -> нет");
+System.Console.WriteLine($"{msg}");
+return Convert.ToInt32(Console.ReadLine());
 }
-
-CheckingTheDayOfTheWeek(dayNumber);
+int number = Prompt("number");
+string ss = "it's not a day of the week";
+string check(int number)
+{
+if (number >= 6 && number < 8) ss = "it's a holiday";
+if (number >= 1 && number < 7) ss = "it's a weekday";
+return ss;
+}
+System.Console.WriteLine(check(number));
 */
